@@ -1,6 +1,6 @@
 # yalco-open-source
 안녕하세요!  
-<제대로 파는 Git & GitHub> 강좌용  
+`제대로 파는 Git & GitHub` 강좌용  
 **오픈소스 예제** 프로젝트입니다.
 
 ## 기여하는 법
